@@ -11,7 +11,8 @@
 # production
 /build
 
-openweather
+# fixed bug
+/src/openweather.js
 
 # misc
 .DS_Store
