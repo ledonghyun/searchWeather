@@ -11,7 +11,8 @@
 # production
 /build
 
-.openweather.js
+openweather
+
 # misc
 .DS_Store
 .env.local
